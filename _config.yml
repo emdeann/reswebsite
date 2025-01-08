@@ -2,7 +2,6 @@
 
 title: deann.dev
 description: Online CV
-taglong: Dean's CV/Personal Projects
 tagshort: CV
 url: https://me.deann.dev
 baseurl: ""
@@ -21,8 +20,7 @@ photo: /assets/jpg/photo.jpg
 
 social:
   github: emdeann
-  linkedin: dean-stavropoulos-7a3877284
-  stackoverflow: 22895436/dean
+  linkedin: deanstv
 
 # build settings
 
